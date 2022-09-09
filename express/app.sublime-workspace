@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cha",
+				"Character"
+			],
+			[
+				"some",
+				"_someValue"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"translate",
+				"translate3d()"
+			],
+			[
+				"transform",
+				"transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"w",
+				"wwwwaaadexxxxxxywww"
+			],
+			[
+				"ball",
+				"ballArr"
+			],
+			[
+				"c",
+				"count1"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"fil",
+				"fillStyle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/diksh/Desktop/web developement/folder/app.js",
+		"/C/Users/diksh/Desktop/web developement/folder/package.json",
+		"/C/Users/diksh/Desktop/web developement/node/node.js",
+		"/C/Users/diksh/Desktop/main.py",
+		"/C/Users/diksh/Desktop/main.go",
+		"/C/Users/diksh/Desktop/learn.go",
+		"/C/Users/diksh/Desktop/exp.java",
+		"/C/Users/diksh/Desktop/exp.py",
+		"/C/Users/diksh/Desktop/web developement/node.js",
+		"/C/Users/diksh/Desktop/web developement/express/style.css",
+		"/C/Users/diksh/Desktop/web developement/express/index.html",
+		"/C/Users/diksh/Desktop/web developement/folder/node.js",
+		"/C/Users/diksh/Desktop/web developement/npm/node.js",
+		"/C/Users/diksh/Desktop/web developement/npm/package.json",
+		"/C/Users/diksh/Desktop/web.html",
+		"/C/Users/diksh/Desktop/node.js",
+		"/C/Users/diksh/Desktop/something.go",
+		"/D/internship project/PillowNewTemplate/PillowNewTemplate/pillow1.py",
+		"/C/Users/diksh/Desktop/filestosend/file.html",
+		"/C/Users/diksh/Desktop/file.html",
+		"/C/Users/diksh/Desktop/Resume files/main.py",
+		"/C/Users/diksh/Desktop/filestosend/ballAnimation.html",
+		"/D/internship project/pillow/pillow/manage.py",
+		"/D/python files/python.py",
+		"/D/python files/postfix.py",
+		"/C/Users/diksh/Desktop/something.class",
+		"/C/Users/diksh/Desktop/Sum.java",
+		"/D/tomis1.js",
+		"/D/Programs/fuckyou.java",
+		"/D/project files/new folder/Smart-agricultural-system/code/mlr_algo.py",
+		"/D/project files/new folder/Smart-agricultural-system/code/nutrientsarea.csv",
+		"/D/project files/Smart_agricultural_system_master/code/code/nutrientsarea.csv",
+		"/C/Users/diksh/Desktop/exp2.py",
+		"/D/project files/Smart-agricultural-system/code/mlr_algo.py",
+		"/D/project files/Smart_agricultural_system_master/code/mlr_algo.py",
+		"/C/Users/diksh/Desktop/delte.py",
+		"/D/myException.class",
+		"/C/Users/diksh/Desktop/java/interface/inter.java",
+		"/C/Users/diksh/Desktop/something.py",
+		"/C/Users/diksh/Desktop/java/expt/java.java",
+		"/C/Users/diksh/Desktop/app.js",
+		"/C/Users/diksh/Desktop/java/abstract/ab.java",
+		"/C/Users/diksh/Desktop/java/inherit/inherit.java",
+		"/C/Users/diksh/Desktop/practice.py",
+		"/D/pythonProgrammes/helloworld.py",
+		"/D/pythonProgrammes/function.py",
+		"/D/time.py",
+		"/C/Users/diksh/Desktop/java/abstract/nothing.class",
+		"/C/Users/diksh/Desktop/java/abstract/something.class",
+		"/C/Users/diksh/Desktop/java/java.java",
+		"/C/Users/diksh/Desktop/dikshiht/something/package-lock.json",
+		"/C/Users/diksh/Desktop/dikshiht/something/package.json",
+		"/C/Users/diksh/Desktop/exp/app.js",
+		"/C/Users/diksh/Desktop/exp/package.json",
+		"/C/Users/diksh/Desktop/exp/posts.js",
+		"/C/Users/diksh/Desktop/New folder/routes/posts.js",
+		"/C/Users/diksh/Desktop/New folder/app.js",
+		"/C/Users/diksh/Desktop/exp/routes/post.js",
+		"/C/Users/diksh/Desktop/node/routes/aliens.js",
+		"/C/Users/diksh/Desktop/node/app.js",
+		"/C/Users/diksh/Desktop/dikshiht/CrudJS/app.js",
+		"/C/Users/diksh/Desktop/dikshiht/CrudJS/package.json",
+		"/C/Users/diksh/Desktop/New folder/models/post.js",
+		"/C/Users/diksh/Desktop/New folder/package.json",
+		"/C/Users/diksh/Desktop/New folder/CrudJS/app.js",
+		"/C/Users/diksh/Desktop/New folder/CrudJS/package.json",
+		"/C/Users/diksh/Desktop/New folder/CrudJS/npm-shrinkwrap.json",
+		"/C/Users/diksh/Desktop/c.c",
+		"/C/Users/diksh/Desktop/Thefile.cpp",
+		"/C/Users/diksh/Desktop/node/package.json",
+		"/C/Users/diksh/Desktop/java/something/something.class",
+		"/C/Users/diksh/Desktop/java/something.class",
+		"/C/Users/diksh/Desktop/java/something/something.java",
+		"/C/Users/diksh/Desktop/programmes/FinalStringcompression.py",
+		"/C/Users/diksh/Desktop/git.py",
+		"/C/Users/diksh/Desktop/exp23.html",
+		"/C/Users/diksh/Desktop/java/practice/mainThing.java",
+		"/C/Users/diksh/Desktop/programmes/sumOfLetandRight.py",
+		"/C/Users/diksh/Desktop/programmes/swapFromGivenPosition.py",
+		"/C/Users/diksh/Desktop/programmes/textcompare.py",
+		"/C/Users/diksh/Desktop/programmes/wordCalc.py",
+		"/C/Users/diksh/Desktop/programmes/WordCompressionMine.py",
+		"/C/Users/diksh/Desktop/exp.html",
+		"/C/Users/diksh/Desktop/programmes/printValuesLabelsDuplicates.py",
+		"/C/Users/diksh/AppData/Local/Temp/Temp1_CrudJS.zip/CrudJS/package.json",
+		"/C/Users/diksh/AppData/Local/Temp/Temp1_CrudJS.zip/CrudJS/app.js",
+		"/C/Users/diksh/Desktop/all.py",
+		"/C/Users/diksh/Desktop/java/practice/mainThing.class",
+		"/C/Users/diksh/Desktop/java/poly/poly.java",
+		"/C/Users/diksh/Desktop/something.java",
+		"/C/Users/diksh/Desktop/java/practice/jangil.class",
+		"/C/Users/diksh/Desktop/programmes/circularRotate.py",
+		"/C/Users/diksh/Desktop/java/practice/nothing.class",
+		"/C/Users/diksh/Desktop/java/practice/everything.class",
+		"/C/Users/diksh/Desktop/java/practice/something.class",
+		"/C/Users/diksh/Desktop/theFile.c",
+		"/C/Users/diksh/AppData/Roaming/Sublime Text/Packages/User/CP.sublime-build",
+		"/C/Users/diksh/Desktop/java/practice/practice.java",
+		"/C/Users/diksh/Desktop/java/exp.class",
+		"/C/Users/diksh/Desktop/java/something.java",
+		"/C/Users/diksh/Desktop/programmes/practice.py",
+		"/C/Users/diksh/Desktop/programmes/MinNoOfOpe.py",
+		"/C/Users/diksh/Desktop/java/main.class",
+		"/C/Users/diksh/Desktop/programmes/jacksDisplay.py",
+		"/C/Users/diksh/Desktop/programmes/stringCompression.py",
+		"/C/Users/diksh/Desktop/programmes/subArray.py",
+		"/C/Users/diksh/Desktop/programmes/closeStringCharacter.py",
+		"/C/Users/diksh/Desktop/programmes/putImge.html",
+		"/C/Users/diksh/Desktop/main.class",
+		"/C/Users/diksh/Desktop/java.java",
+		"/C/Users/diksh/Desktop/programmes/circle.html",
+		"/C/Users/diksh/Desktop/programmes/snake.html",
+		"/C/Users/diksh/Desktop/programmes/shoot.html",
+		"/C/Users/diksh/Desktop/pingpong.html",
+		"/C/Users/diksh/Desktop/programmes/pyramid.py",
+		"/C/Users/diksh/Desktop/programmes/iamgeData.html",
+		"/C/Users/diksh/Desktop/programmes/MultipleCollison.html",
+		"/C/Users/diksh/Desktop/programmes/singleBallCollision.html",
+		"/C/Users/diksh/Desktop/programmes/collide.html",
+		"/C/Users/diksh/Desktop/linear.html",
+		"/C/Users/diksh/Desktop/snake.html",
+		"/C/Users/diksh/Desktop/sandhya.py",
+		"/C/Users/diksh/Desktop/programmes/frequest.py",
+		"/C/Users/diksh/Desktop/programmes/binary.py",
+		"/C/Users/diksh/Desktop/programmes/exp.py",
+		"/C/Users/diksh/Desktop/programmes/whiteSpaces.py",
+		"/C/Users/diksh/Desktop/programmes/sandhya.py",
+		"/C/Users/diksh/Desktop/programmes/python.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,34 @@
+var something = {
+	"value1":1,
+	"value2":2,
+	3:"nothign",
+	everything:4,
+	5:1
+};
+something["value4"] = "this is also nothing";
+delete something.value2
+console.log(something);
+//hasOwnProperty to check if object has a certain key 
+console.log(something.hasOwnProperty(3));
+//JSON.parse  JSON.stringify
+//condition ? if ture : if false;
+var catName = "nothing";
+var catName = "everything";
+console.log(typeof(something.everything));
+//Object.freeze() freezes objects properties
+someValue = (arr)=> arr.pop();
+console.log(someValue([1,2,4]));
+//parameters can be set to default like funciton something(value=1)
+//rest operator value(1,2,3) function(...value){}
+//spread operator
+var arr1 = [1,2,3,4]
+console.log(arr1);
+arr2 = [...arr1];
+arr2[0] = 0;
+console.log(arr1);
+console.log(arr2);
+//anynomou function
+(function(){
+	console.log("this is an anynomyous function");
+})();
+//class spaceshuttle{ contructor(something){this.something = //something} }
